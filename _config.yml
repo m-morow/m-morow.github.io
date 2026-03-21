@@ -16,13 +16,14 @@
 title: M. Morow Tan
 email: M.Tan@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  M. Morow Tan graduate student website.
+  #Write an awesome description for your new site here. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: m-morow
 minimal_mistakes_skin: default
-search: true
+#search: true
 
 # Build settings
 markdown: kramdown
@@ -60,8 +61,10 @@ plugins:
 author:
   name   : "M. Morow Tan"
   avatar : "/assets/images/tan_pic_boat.jpg"
-  bio    : "I'm a 2nd-year PhD student interested in aseismic slip, remote sensing, and crustal deformation processes."
+  bio    : "I'm a 2nd-year PhD student interested in crustal deformation processes, such as aseismic slip."
   links:
+    - label: "Boulder, CO"
+      icon: "fas fa-fw fa-place"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=yUX6jvoAAAAJ&hl=en"
