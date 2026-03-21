@@ -64,7 +64,7 @@ author:
   bio    : "I'm a 2nd-year PhD student interested in crustal deformation processes, such as aseismic slip."
   links:
     - label: "Boulder, CO"
-      icon: "fas fa-fw fa-place"
+      icon: <i class="fa fa-map-marker" aria-hidden="true"></i>
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=yUX6jvoAAAAJ&hl=en"
