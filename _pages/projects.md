@@ -1,13 +1,12 @@
 ---
-title: "Projects"
+title: "projects"
 layout: single
 permalink: /projects/
 author_profile: true
 ---
 
-<!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head> <font size="3"> 
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title></title>
@@ -34,7 +33,7 @@ author_profile: true
       </ul>
     </div>
   </body>
-  \t
+
   <body>
       <!-- This is the markup of your box, in simpler terms the content structure. -->
       <div class="boxed">
