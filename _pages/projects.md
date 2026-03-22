@@ -18,7 +18,7 @@ author_profile: true
         color: black;
         border: 3px solid #7D7D7D;
         margin: 10px auto;
-        width: 70%; /*456px;*/
+        width: 100%; /*456px;*/
         padding: 10px;
         border-radius: 10px;
       }
@@ -32,16 +32,5 @@ author_profile: true
         <li> Using 10 years of Sentinel-1 InSAR data, with GNSS and creepmeter data, to identify and model creep events on the Imperial Fault, CA. </li>
       </ul>
     </div>
-  </body>
-
-  <body>
-      <!-- This is the markup of your box, in simpler terms the content structure. -->
-      <div class="boxed">
-        Previous projects
-        <ul class="a">
-          <li> Field work for tectonic geomorphology projects. </li> 
-          <li> Field work for magnetotelluric projects. </li>
-        </ul>
-      </div>
   </body>
 </html>
