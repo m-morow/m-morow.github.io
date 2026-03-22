@@ -17,8 +17,8 @@ author_profile: true
         background: #F0F0F0;
         color: black;
         border: 3px solid #7D7D7D;
-        margin: 0px auto;
-        width: 456px;
+        margin: 10px auto;
+        width: 70%; /*456px;*/
         padding: 10px;
         border-radius: 10px;
       }
@@ -43,5 +43,5 @@ author_profile: true
           <li> Field work for magnetotelluric projects. </li>
         </ul>
       </div>
-    </body>
+  </body>
 </html>
