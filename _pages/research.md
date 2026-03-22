@@ -1,7 +1,7 @@
 ---
-title: "projects"
+title: "Research"
 layout: single
-permalink: /projects/
+permalink: /research/
 author_profile: true
 ---
 
@@ -31,18 +31,19 @@ author_profile: true
           display:inline-block;
           text-decoration:none;
           color:black;
+          font-style: italic;
       }
     </style>
   <body>
     <!-- This is the markup of your box, in simpler terms the content structure. -->
     <div class="boxed">
-      Integrated geodetic study of creep events on the Imperial Fault
+      <h2> Integrated geodetic study of creep events on the Imperial Fault </h2>
       <ul class="a">
         <li> Using 10 years of Sentinel-1 InSAR data, with GNSS and creepmeter data, to identify and model creep events on the Imperial Fault, CA. </li>
       </ul>
         <div id="images">
-                  <img src="../assets/images/ex_creep_model.png" width="500px" height="300px">
-                  <div class="caption">Model results for the February 3-15, 2023 creep event on the W. Mesquite Fault.</div>
+                  <img src="../assets/images/ex_creep_model.png" width="600px" height="400px">
+                  <div class="caption">Model results for the February 3-15, 2024 creep event on the W. Mesquite Fault.</div>
         </div>
     </div>
   </body>
