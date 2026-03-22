@@ -2,7 +2,22 @@
 permalink: /about/
 title: "About"
 ---
+<style>
+  p {
+  }
+  .header {
+    font-size: 5px;
+    font-style: italic;
+  }
+  .para {
+    font-size: 3px;
+  }
+</style>
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<p class="header">a little more about me ...</p>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<p class="para">Visualization is perhaps my favorite part of doing research and working with data. I code in Python and do final edits in Adobe Illustrator or Photoshop. I've also designed logos and posters for various organizations and people.</p>
+
+<p class="para">I'm deeply critical of the widespread push to use and mass fund generative AI, especially under the premise of it being inevitable. In education, academic institutions, and research sectors, this is an incredibly relevant conversation that I believe is largely unhad. I highly recommend this interview:</p>
+
+<p class="para">Exposing the true costs of AI with author Karen Hao: <a href="https://soundcloud.com/novaramedia/downstream-exposing-the-true-costs-of-ai-w-karen-hao">listen on Novara Media</a></p>
