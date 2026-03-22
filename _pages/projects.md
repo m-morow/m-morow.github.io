@@ -23,7 +23,6 @@ author_profile: true
         border-radius: 10px;
       }
     </style>
-  </head>
   <body>
     <!-- This is the markup of your box, in simpler terms the content structure. -->
     <div class="boxed">
@@ -33,4 +32,3 @@ author_profile: true
       </ul>
     </div>
   </body>
-</html>
