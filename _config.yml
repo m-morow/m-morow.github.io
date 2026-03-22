@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: M. Morow Tan
+#subtitle: research website
 email: M.Tan@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
   M. Morow Tan graduate student website.
@@ -32,7 +33,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -62,9 +63,8 @@ author:
   name   : "M. Morow Tan"
   avatar : "/assets/images/tan_pic_boat.jpg"
   bio    : "I'm a 2nd-year PhD student interested in crustal deformation processes, such as aseismic slip."
+  location : "Boulder, CO"
   links:
-    - label: "Boulder, CO"
-      icon: <i class="fa fa-map-marker" aria-hidden="true"></i>
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=yUX6jvoAAAAJ&hl=en"
