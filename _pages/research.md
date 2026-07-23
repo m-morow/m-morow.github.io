@@ -39,11 +39,11 @@ author_profile: true
     <div class="boxed">
       <h2> Integrated geodetic study of creep events on the Imperial Fault </h2>
       <ul class="a">
-        <li> Using 10 years of Sentinel-1 InSAR data, with GNSS and creepmeter data, to identify and model creep events on the Imperial Fault, CA. </li>
+        <li> Using 12 years of Sentinel-1 InSAR data, with GNSS and creepmeter data, to identify and model creep events on the Imperial Fault, CA. </li>
       </ul>
-        <div id="images">
+        /* <div id="images">
                   <img src="../assets/images/ex_creep_model.png" width="600px" height="400px">
                   <div class="caption">Model results for the February 3-15, 2024 creep event on the W. Mesquite Fault.</div>
-        </div>
+        </div> */
     </div>
   </body>
