@@ -11,7 +11,7 @@ My research interests broadly relate to active tectonics, fault zone properties,
 I can also be found making surrealist art, swimming, or tinkering on projects.
 
 <html lang="en">
-  <head> <font size="3"> 
+  <head> <font size="2"> 
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title></title>
