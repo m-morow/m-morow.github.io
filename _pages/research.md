@@ -42,4 +42,10 @@ author_profile: true
         <li> Using 12 years of Sentinel-1 InSAR data, with GNSS and creepmeter data, to identify and model creep events on the Imperial Fault, CA. </li>
       </ul>
     </div>
+    <div class="boxed">
+      <h2> Triggered aseismic creep following the 2023 Ocotillo swarm </h2>
+      <ul class="a">
+        <li> Using three unique InSAR look geometries to constrain 3D deformation of creep and slip at depth in the Yuha Desert, CA. </li>
+      </ul>
+    </div>
   </body>
